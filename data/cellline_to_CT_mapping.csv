@@ -1,0 +1,73 @@
+CellLine identifier,Assigned CT,Cell line description,Reference/Source
+A549,Lung,Lung adenocarcinoma,ATCC CCL-185
+H1299,Lung,Lung carcinoma,ATCC CRL-5803
+NCI-H1299,Lung,Lung carcinoma (alternate name),ATCC CRL-5803
+BEAS-2B,Lung,Immortalized bronchial epithelium (non-cancerous),ATCC CRL-9609
+IMR-90,Lung,Fetal lung fibroblast,ATCC CCL-186
+EA.HY926,Lung,HUVEC × A549 hybrid (endothelial; lung carcinoma parental lineage),ATCC CRL-2922
+EAHY926,Lung,EA.hy926 alternate spelling,ATCC CRL-2922
+WI-38,Lung,Fetal lung fibroblast,ATCC CCL-75
+CACO-2,Colon,Colorectal adenocarcinoma,ATCC HTB-37
+CACO2,Colon,CACO-2 alternate spelling,ATCC HTB-37
+HCT116,Colon,Colorectal carcinoma,ATCC CCL-247
+HT29,Colon,Colorectal adenocarcinoma,ATCC HTB-38
+HT-29,Colon,HT29 alternate spelling,ATCC HTB-38
+SW480,Colon,Colorectal adenocarcinoma,ATCC CCL-228
+RKO,Colon,Colorectal carcinoma,ATCC CRL-2577
+LS174T,Colon,Colorectal adenocarcinoma,ATCC CL-188
+293T,Kidney,HEK293T human embryonic kidney,ATCC CRL-3216
+HEK293,Kidney,Human embryonic kidney,ATCC CRL-1573
+HEK 293,Kidney,HEK293 alternate spelling,ATCC CRL-1573
+SH-SY5Y,brain,Neuroblastoma,ATCC CRL-2266
+SHSY5Y,brain,SH-SY5Y alternate spelling,ATCC CRL-2266
+U87,Brain,Glioblastoma,ATCC HTB-14
+U251,Brain,Glioblastoma,DSMZ ACC 305
+U-87 MG,Brain,U87 alternate spelling,ATCC HTB-14
+T98G,Brain,Glioblastoma,ATCC CRL-1690
+LN229,Brain,Glioblastoma,ATCC CRL-2611
+HEPG2,Liver,Hepatocellular carcinoma,ATCC HB-8065
+HEPG-2,Liver,HepG2 alternate spelling,ATCC HB-8065
+HUH7,Liver,Hepatocellular carcinoma,JCRB0403
+HUH-7,Liver,HUH7 alternate spelling,JCRB0403
+HEPA1C1C7,Liver,Mouse hepatoma,ATCC CRL-2026
+MCF7,Breast,Breast adenocarcinoma,ATCC HTB-22
+MCF-7,Breast,MCF7 alternate spelling,ATCC HTB-22
+HMEC 184,Breast,Normal mammary epithelial,Lonza CC-2551
+HMEC184,Breast,HMEC 184 alternate spelling,Lonza CC-2551
+MDA-MB-231,breast,Breast adenocarcinoma (triple-negative),ATCC HTB-26
+MDAMB231,breast,MDA-MB-231 alternate spelling,ATCC HTB-26
+MDA MB 231,breast,MDA-MB-231 alternate spelling,ATCC HTB-26
+T47D,Breast,Breast ductal carcinoma,ATCC HTB-133
+T-47D,Breast,T47D alternate spelling,ATCC HTB-133
+BT549,breast,Breast carcinoma,ATCC HTB-122
+ZR-75-1,Breast,Breast ductal carcinoma,ATCC CRL-1500
+HELA,cervix,HeLa cervical adenocarcinoma,ATCC CCL-2
+HeLa,cervix,HeLa alternate spelling,ATCC CCL-2
+HE-LA,cervix,HeLa alternate spelling,ATCC CCL-2
+SIHA,cervix,Cervical squamous carcinoma,ATCC HTB-35
+CASKI,cervix,Cervical carcinoma,ATCC CRL-1550
+A431,Skin,Epidermoid carcinoma,ATCC CRL-1555
+HACAT,Skin,Immortalized human keratinocyte,AddexBio T0020001
+HaCaT,Skin,HaCaT alternate spelling,AddexBio T0020001
+SK-MEL-28,skin,Melanoma,ATCC HTB-72
+SK MEL-28,skin,SK-MEL-28 alternate spelling,ATCC HTB-72
+SKMEL28,skin,SK-MEL-28 alternate spelling,ATCC HTB-72
+A375,skin,Melanoma,ATCC CRL-1619
+PC3,Prostate,Prostate adenocarcinoma,ATCC CRL-1435
+PC-3,Prostate,PC3 alternate spelling,ATCC CRL-1435
+LNCAP,prostate,Prostate carcinoma,ATCC CRL-1740
+LNCaP,prostate,LNCaP alternate spelling,ATCC CRL-1740
+DU145,Prostate,Prostate carcinoma,ATCC HTB-81
+SKOV3,Ovary,Ovarian adenocarcinoma,ATCC HTB-77
+SK-OV-3,Ovary,SKOV3 alternate spelling,ATCC HTB-77
+OVCAR3,Ovary,Ovarian adenocarcinoma,ATCC HTB-161
+OVCAR-3,Ovary,OVCAR3 alternate spelling,ATCC HTB-161
+PANC1,Pancreas,Pancreatic carcinoma,ATCC CRL-1469
+PANC-1,Pancreas,PANC1 alternate spelling,ATCC CRL-1469
+MIAPACA,Pancreas,Pancreatic carcinoma,ATCC CRL-1420
+MIAPACA-2,Pancreas,MiaPaCa-2 alternate spelling,ATCC CRL-1420
+CFPAC-1,Pancreas,Pancreatic ductal carcinoma,ATCC CRL-1918
+AGS,stomach,Gastric adenocarcinoma,ATCC CRL-1739
+KATO3,stomach,Gastric carcinoma,JCRB0611
+KATOIII,stomach,KATO3 alternate spelling,JCRB0611
+MKN45,stomach,Gastric adenocarcinoma,JCRB0254

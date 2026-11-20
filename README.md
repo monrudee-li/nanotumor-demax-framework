@@ -74,11 +74,27 @@ are required — the models predict on standardised inputs and are unusable with
 The nine endpoint classifiers are retrained in-notebook under `SEED = 42` rather than saved.
 
 ## Data provenance
-`AI_nano.xlsx` is curated/derived from the published nanoparticle tumour-delivery studies
-of Lin et al. 2022 (*Int. J. Nanomedicine* 17:1365–1379) and Cheng et al. 2020
-(*ACS Nano* 14:3075–3095). See `data/DATA_DICTIONARY.md` for full column definitions and
+**Delivery dataset (`AI_nano.xlsx`).** Curated/derived from the published nanoparticle
+tumour-delivery studies of Lin et al. 2022 (*Int. J. Nanomedicine* 17:1365–1379) and
+Cheng et al. 2020 (*ACS Nano* 14:3075–3095).
+
+**Transcriptomics endpoint dataset (`Literature_transcriptomics_review.xlsx` /
+`transcriptomics_endpoints.csv`).** Curated by the authors from published nanoparticle
+transcriptomics (microarray / RNA-seq) toxicity studies. Each record is a binary
+pathway-activation call (`triggered` / `no_effect`) for nine toxicity endpoints, abstracted
+from the original studies — the dataset contains these curated endpoint labels, not raw
+gene-expression values. The underlying per-study sources, differentially expressed genes,
+pathway interpretation, external validation and data-availability notes are recorded in the
+`Literature Transcriptomics` sheet of `Literature_transcriptomics_review.xlsx`, which serves
+as the provenance record for this dataset.
+
+See `data/DATA_DICTIONARY.md` for full column definitions and
 `data/MAPPING_AND_FALLBACK_NOTES.md` for the cell-line → CT mapping and exclusions.
 
+## License
+Released under the MIT License (see `LICENSE`).
+
 ## Citation
-If you use this material, please cite the manuscript and this archive (Zenodo DOI added on
-release).
+If you use this material, please cite the manuscript and this archive:
+- Repository: https://github.com/monrudee-li/nanotumor-demax-framework
+- Archive: Zenodo DOI (added on release)
